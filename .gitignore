@@ -1,0 +1,6 @@
+runs/
+*.jpg
+*.png
+datasets/
+__pycache__/
+.venv/

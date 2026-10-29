@@ -1,0 +1,6 @@
+train: archive/train/images
+val: archive/valid/images
+test: archive/test/images
+
+nc: 3
+names: ['empty', 'occupied', 'ignore'] # Replace 'ignore' with the actual 3rd class name from your JSON if different
